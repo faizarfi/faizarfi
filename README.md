@@ -55,8 +55,6 @@ const faiz = {
 </td>
 <td width="28%" align="center" valign="middle">
 
-<img src="./assets/faiz-profile.jpg" width="190" alt="Portrait of Faiz Arfian Ilhami" />
-
 <br />
 
 <sub><b>Build with purpose.<br />Ship with care.</b></sub>
