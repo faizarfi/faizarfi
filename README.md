@@ -1,15 +1,15 @@
 <div align="center">
 
-  <!-- ==================== CLEAN TEXT HEADER ==================== -->
+  <!-- ==================== HEADER ==================== -->
   <h1>Faiz Arfian Ilhami</h1>
   <p><b>Full Stack Web Developer &bull; Software Engineering Specialist</b></p>
 
-  <!-- ==================== DYNAMIC TYPING SVG ==================== -->
+  <!-- ==================== TYPING SVG ==================== -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Full+Stack+Laravel+%26+Next.js+Developer;Architecting+Scalable+Web+Systems;Backend+API+%26+Database+Optimization;Surakarta%2C+Indonesia" alt="Typing Animation" />
 
   <br/><br/>
 
-  <!-- ==================== STATUS PILLS ==================== -->
+  <!-- ==================== STATUS BADGES ==================== -->
   <p align="center">
     <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20PROJECTS-00F5D4?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=0f172a" alt="Status" />
     <img src="https://img.shields.io/badge/EXPERIENCE-2%2B%20YEARS-00BBF9?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=0f172a" alt="Experience" />
@@ -54,17 +54,9 @@
 
 <div align="center">
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=faizarfi&show_icons=true&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=00f5d4&count_private=true&include_all_commits=true" alt="Faiz GitHub Stats" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizarfi&layout=compact&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="170" />
-  </p>
-
+  <!-- Streak Stats (Stabil & Aktif) -->
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizarfi&theme=tokyonight&hide_border=false&border_color=38bdf8&background=0f172a&stroke=38bdf8&ring=00f5d4&fire=00f5d4&currStreakLabel=38bdf8" alt="GitHub Streak" width="98%" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizarfi&bg_color=0f172a&color=38bdf8&line=00f5d4&point=ffffff&area=true&hide_border=false&border_color=38bdf8" alt="Activity Graph" width="98%" />
   </p>
 
 </div>
