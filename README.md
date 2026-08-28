@@ -2,12 +2,12 @@
 
   <!-- ==================== HEADER BANNER ANIMASI MINIMALIS ==================== -->
   <a href="https://github.com/faizarfi">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Faiz%20Arfian%20Ilhami&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Web%20Developer%20%7C%20Laravel%20%26%20Next.js%20Specialist&descAlignY=64&descAlign=50&descSize=14&descColor=94a3b8" alt="Faiz Arfian Ilhami Header" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Faiz%20Arfian%20Ilhami&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Web%20Developer%20%7C%20IT%20Solutions%20%7C%20SEO%20Specialist&descAlignY=64&descAlign=50&descSize=14&descColor=94a3b8" alt="Faiz Arfian Ilhami Header" width="100%" />
   </a>
 
   <!-- ==================== DYNAMIC TYPING SVG ==================== -->
   <a href="https://github.com/faizarfi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Full+Stack+Web+Developer;Laravel+%26+Next.js+Modern+Architecture;Database+Design+%26+RESTful+APIs;Clean+Code+%26+IT+Solutions;Based+in+Surakarta%2C+Indonesia" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Full+Stack+Web+Developer;Laravel+%26+Next.js+Modern+Architecture;Technical+SEO+%26+Performance+Engineering;Based+in+Surakarta%2C+Indonesia" alt="Typing Animation" />
   </a>
 
   <br/>
@@ -28,11 +28,11 @@
 
 ### Overview
 
-Software Developer based in Surakarta, Indonesia, specializing in building structured, responsive, and maintainable web applications. Experienced in developing enterprise information systems using **Laravel** and modern interactive web interfaces using **Next.js**, **React**, and **TypeScript**.
+Software Developer based in Surakarta, Indonesia, specializing in building structured, high-performance, and maintainable web applications. Experienced in developing enterprise information systems using **Laravel** and modern web interfaces using **Next.js**, **React**, and **TypeScript**, combined with rigorous technical SEO and performance optimization.
 
 - **Primary Focus**: Full-stack web engineering, scalable system architecture, and API design.
-- **Key Competencies**: Clean code practices, modular design patterns, database query optimization, and IT problem solving.
-- **Approach**: Pragmatic development, robust data validation, and delivering reliable digital solutions.
+- **Key Competencies**: Clean code practices, modular design patterns, database query optimization, and technical SEO.
+- **Approach**: Pragmatic problem solving, robust data validation, and delivering intuitive user experiences.
 
 ---
 
@@ -51,20 +51,29 @@ Software Developer based in Surakarta, Indonesia, specializing in building struc
 | **Frontend Engineering** | Next.js, React, TypeScript, Tailwind CSS, JavaScript | Advanced |
 | **Backend Architecture** | Laravel Framework, PHP 8+, RESTful APIs, Eloquent ORM | Advanced |
 | **Database Design** | MySQL, PostgreSQL, Query Optimization, Indexing | Advanced |
-| **IT Solutions & Support** | System Troubleshooting, Server Maintenance, Migrations | Advanced |
+| **Performance & SEO** | Technical SEO, Core Web Vitals, Schema.org, Lighthouse Audit | Advanced |
 | **Infrastructure & Tools** | Git, Docker, Linux/Ubuntu CLI, Vercel, Postman | Proficient |
 
 ---
 
-### GitHub Activity & Streak
+### GitHub Analytics & Activity
 
 <div align="center">
 
-  <!-- STREAK STATS (VERIFIED WORKING) -->
+  <!-- STATS & TOP LANGUAGES -->
   <p align="center">
-    <a href="https://github.com/faizarfi">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizarfi&theme=tokyonight&hide_border=false&border_color=334155&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="95%" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=faizarfi&show_icons=true&theme=tokyonight&hide_border=false&border_color=334155&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&count_private=true&include_all_commits=true" alt="Faiz GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizarfi&layout=compact&theme=tokyonight&hide_border=false&border_color=334155&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="165" />
+  </p>
+
+  <!-- STREAK STATS -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizarfi&theme=tokyonight&hide_border=false&border_color=334155&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="95%" />
+  </p>
+
+  <!-- ACTIVITY GRAPH -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizarfi&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=false&border_color=334155" alt="Activity Graph" width="95%" />
   </p>
 
 </div>
@@ -88,13 +97,13 @@ Software Developer based in Surakarta, Indonesia, specializing in building struc
 <br>
 
 <details open>
-<summary><b>Next.js Modern Web &amp; SaaS Platform</b></summary>
+<summary><b>Next.js SaaS & Digital Platform</b></summary>
 <br>
 
-- **Overview**: High-performance web platform built with App Router, server-side rendering (SSR), responsive layout, and clean user experience.
+- **Overview**: High-performance web platform built with App Router, server-side rendering (SSR), responsive layout, and complete technical SEO optimization.
 - **Stack**: `Next.js` &bull; `React` &bull; `TypeScript` &bull; `Tailwind CSS` &bull; `Vercel`
 - **Key Deliverables**:
-  - Optimized frontend architecture for fast rendering and fluid interactions.
+  - Achieved sub-second Largest Contentful Paint (LCP < 0.8s).
   - Designed clean, accessible UI components with dark mode support.
   - Integrated secure server actions and API handling.
 </details>
@@ -102,7 +111,7 @@ Software Developer based in Surakarta, Indonesia, specializing in building struc
 <br>
 
 <details open>
-<summary><b>RESTful API Services &amp; Microservice Layer</b></summary>
+<summary><b>RESTful API Services & Microservice Layer</b></summary>
 <br>
 
 - **Overview**: High-throughput backend API service with JWT authentication, rate limiting, structured error handling, and interactive API documentation.
@@ -116,22 +125,22 @@ Software Developer based in Surakarta, Indonesia, specializing in building struc
 <br>
 
 <details open>
-<summary><b>Interactive Web Application &amp; Client Solutions</b></summary>
+<summary><b>Technical SEO & Web Performance Framework</b></summary>
 <br>
 
-- **Overview**: Custom web solutions tailored for business efficiency, streamlined administrative workflows, and digital presence.
-- **Stack**: `Laravel` &bull; `JavaScript` &bull; `MySQL` &bull; `Bootstrap / Tailwind`
+- **Overview**: Optimization framework focused on boosting search engine indexing, semantic structuring, and Core Web Vitals metrics.
+- **Stack**: `JavaScript` &bull; `Node.js` &bull; `Google Search Console` &bull; `Lighthouse Audit`
 - **Key Deliverables**:
-  - Engineered modular components for maintainability and scalability.
-  - Delivered responsive interfaces compatible across mobile and desktop devices.
+  - Automated JSON-LD structured data and dynamic OpenGraph generation.
+  - Enhanced page speed and asset delivery for high Lighthouse audit scores.
 </details>
 
 ---
 
 ### Experience & Background
 
-- **Freelance Software Developer & IT Specialist** `(2024 – Present)`
-  - Designing and implementing custom web applications, enterprise dashboards, and digital solutions for business clients.
+- **Freelance Software Developer & IT Consultant** `(2024 – Present)`
+  - Designing and implementing custom web applications, enterprise dashboards, and technical SEO solutions for business clients.
 - **Web Developer & IT Support Specialist** `(2022 – 2024)`
   - Developed responsive digital interfaces, database management workflows, and server maintenance solutions.
 
