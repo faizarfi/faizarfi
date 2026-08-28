@@ -1,150 +1,116 @@
-# ⚡ FAIZ ARFIAN ILHAMI // CYBER-DECK v3.2
+# Faiz Arfian Ilhami
+### Full Stack Web Developer &bull; IT Solutions &bull; SEO Specialist
 
-```text
-  ███████╗ █████╗ ██╗███████╗     █████╗ ██████╗ ███████╗██╗ █████╗ ███╗   ██╗
-  ██╔════╝██╔══██╗██║╚══███╔╝    ██╔══██╗██╔══██╗██╔════╝██║██╔══██╗████╗  ██║
-  █████╗  ███████║██║  ███╔╝     ███████║██████╔╝█████╗  ██║███████║██╔██╗ ██║
-  ██╔══╝  ██╔══██║██║ ███╔╝      ██╔══██║██╔══██╗██╔══╝  ██║██╔══██║██║╚██╗██║
-  ██║     ██║  ██║██║███████╗    ██║  ██║██║  ██║██║     ██║██║  ██║██║ ╚████║
-  ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-    ─── [ FULL STACK WEB DEVELOPER • IT HELPER • SEO ARCHITECT ] ───
 ```
-
-> **`SYSTEM STATUS`**: `🟢 ONLINE` | **`LOCATION`**: `Surakarta, Indonesia (UTC+7)` | **`EXP`**: `2+ Years` | **`CORE`**: `Laravel • Next.js • MySQL • Tailwind`
+Location: Surakarta, Indonesia (UTC+7)   |   Status: Open for Opportunities   |   Experience: 2+ Years
+```
 
 ---
 
-## 🔮 `01 // SYSTEM_TELEMETRY & ABOUT_ME`
+## Overview
 
-```yaml
-┌── [ SYSTEM TELEMETRY :: faizarfi@root ]
-├── 👤 DEVELOPER    : Faiz Arfian Ilhami
-├── 💼 ROLE         : Full Stack Web Developer & IT Specialist
-├── 📍 BASE_COORDS  : Surakarta, Central Java, Indonesia 🇮🇩
-├── ⏳ EXPERIENCE   : 2+ Years Production, Client Solutions & Freelance
-├── 🎯 CORE_STACK   : Laravel • Next.js • PHP • TypeScript • MySQL • Tailwind CSS
-├── 🟢 STATUS       : AVAILABLE FOR FREELANCE & FULL-TIME COLLABORATION
-└── 🌐 MISSION      : "Building structured, high-performance & maintainable digital products from scratch to cloud."
-```
+Software Developer based in Surakarta, Indonesia, specializing in building structured, high-performance, and maintainable web applications. Experienced in developing enterprise information systems using **Laravel** and modern web interfaces using **Next.js**, **React**, and **TypeScript**, combined with rigorous technical SEO and performance optimization.
 
-### ⚡ Highlights & Engineering Strengths
-- 🛠️ **Full Stack Mastery:** End-to-end development dari frontend interaktif hingga sistem informasi skala enterprise berbasis **Laravel & MySQL**.
-- 📈 **SEO & Performance Engineering:** Spesialisasi dalam optimasi Core Web Vitals, metadata struktur, kecepatan loading, dan indexing.
-- 💡 **IT Helper & Problem Solver:** Berpengalaman menangani troubleshooting sistem, migrasi database, perancangan schema, dan optimasi arsitektur cloud.
-- 🛡️ **Clean Code & Security:** Menerapkan MVC / Repository Pattern, RESTful API design, autentikasi terenkripsi, dan validasi data ketat.
+- **Primary Focus**: Full-stack web engineering, scalable system architecture, and API design.
+- **Key Competencies**: Clean code practices, modular design patterns, database query optimization, and technical SEO.
+- **Approach**: Pragmatic problem solving, robust data validation, and delivering intuitive user experiences.
 
 ---
 
-## ⚔️ `02 // TECH_STACK_MATRIX & WEAPONS`
+## Technical Competencies
 
-```bash
-[ LANGUAGES ]       PHP 8.x  •  JavaScript (ES6+)  •  TypeScript  •  SQL  •  HTML5 / CSS3  •  Bash
-[ FRONTEND ]        Next.js  •  React.js  •  Tailwind CSS  •  Bootstrap 5  •  Livewire  •  Blade
-[ BACKEND & DB ]    Laravel  •  Node.js  •  Express  •  MySQL  •  PostgreSQL  •  RESTful APIs
-[ DEVOPS & TOOLS ]  Git / GitHub  •  Docker  •  Ubuntu / Linux  •  Vercel  •  Nginx  •  Postman  •  VS Code
-```
+### Languages & Frameworks
+- **Backend**: Laravel, PHP 8.x, Node.js, Express, RESTful APIs, MVC Architecture
+- **Frontend**: Next.js, React, TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap, Livewire
+- **Databases & Storage**: MySQL, PostgreSQL, Redis, Eloquent ORM
+- **DevOps & Environments**: Git, GitHub, Docker, Linux/Ubuntu, Vercel, Nginx
+- **Tooling & Workflow**: Postman, VS Code, Figma, Composer, NPM
 
-| Domain | Core Technologies & Tools | Level |
+### Technical Matrix
+
+| Domain | Core Stack | Proficiency |
 | :--- | :--- | :--- |
-| **🌐 Frontend** | Next.js, React, Tailwind CSS, TypeScript, JavaScript, Blade | `Advanced` |
-| **⚙️ Backend** | Laravel Framework, PHP 8+, REST APIs, MVC Architecture | `Expert` |
-| **🐬 Database** | MySQL, PostgreSQL, Query Optimization, Eloquent ORM | `Advanced` |
-| **🔍 Optimization** | Technical SEO, Core Web Vitals, Lighthouse 100%, Responsive UX | `Expert` |
-| **🚀 DevOps & Tools** | Git, Docker, Linux/Ubuntu CLI, Vercel, Postman, Figma | `Proficient` |
+| **Frontend Engineering** | Next.js, React, TypeScript, Tailwind CSS, JavaScript | Advanced |
+| **Backend Architecture** | Laravel, PHP 8+, RESTful APIs, Eloquent ORM | Advanced |
+| **Database Design** | MySQL, PostgreSQL, Query Optimization, Indexing | Advanced |
+| **Performance & SEO** | Technical SEO, Core Web Vitals, Schema.org, Lighthouse Audit | Advanced |
+| **Infrastructure & Tools** | Git, Docker, Linux CLI, Vercel, Postman | Proficient |
 
 ---
 
-## 🚀 `03 // FEATURED_CYBER_PROJECTS & MISSIONS`
+## Selected Projects
 
 <details open>
-<summary><b>🏛️ 1. Enterprise Information System (SIM & Management Suite)</b></summary>
+<summary><b>Enterprise Information System (SIM)</b></summary>
 <br>
 
-- **Deskripsi**: Sistem informasi terintegrasi berskala enterprise dengan manajemen data multi-level, role-based access control (RBAC), export rekap otomatis (PDF/Excel), dan dashboard analitik interaktif.
-- **Tech Stack**: `Laravel` • `MySQL` • `Tailwind CSS` • `Livewire` • `Alpine.js`
-- **Fitur Utama**:
-  - 🔐 Multi-auth security & permission management
-  - 📊 Real-time data reporting & interactive analytics charts
-  - ⚡ Optimized database queries for large dataset handling
+- **Overview**: An integrated enterprise management system featuring complex data workflows, role-based access control (RBAC), automated report generation (PDF/Excel), and real-time analytical dashboards.
+- **Stack**: `Laravel` &bull; `MySQL` &bull; `Tailwind CSS` &bull; `Livewire` &bull; `Alpine.js`
+- **Key Deliverables**:
+  - Implemented multi-tier authentication and granular permission management.
+  - Optimized database schemas and indexes for large-scale data transactions.
+  - Automated structured exports and analytics aggregation.
 </details>
 
 <br>
 
 <details open>
-<summary><b>⚡ 2. Modern Next.js SaaS & Digital Platform</b></summary>
+<summary><b>Next.js SaaS & Digital Platform</b></summary>
 <br>
 
-- **Deskripsi**: Aplikasi web modern berkecepatan tinggi dengan App Router, Server-Side Rendering (SSR), dynamic dark/neon UI aesthetic, dan integrasi SEO score 100.
-- **Tech Stack**: `Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Vercel`
-- **Fitur Utama**:
-  - ⚡ Blazing fast Core Web Vitals (< 0.8s LCP)
-  - 🌓 Dark mode & responsive mobile-first architecture
-  - 🛡️ Server Actions & secure API integration
+- **Overview**: High-performance web platform built with App Router, server-side rendering (SSR), responsive layout, and complete technical SEO optimization.
+- **Stack**: `Next.js` &bull; `React` &bull; `TypeScript` &bull; `Tailwind CSS` &bull; `Vercel`
+- **Key Deliverables**:
+  - Achieved sub-second Largest Contentful Paint (LCP < 0.8s).
+  - Designed clean, accessible UI components with dark mode support.
+  - Integrated secure server actions and API handling.
 </details>
 
 <br>
 
 <details open>
-<summary><b>🛡️ 3. RESTful API Gateway & Microservice Hub</b></summary>
+<summary><b>RESTful API Services & Microservice Layer</b></summary>
 <br>
 
-- **Deskripsi**: Backend API service performa tinggi dengan autentikasi JWT terenkripsi, rate limiting, logging terpusat, dan dokumentasi API interaktif.
-- **Tech Stack**: `Laravel API` • `PHP 8.2` • `PostgreSQL / MySQL` • `Postman`
-- **Fitur Utama**:
-  - 🔑 Secure JWT & Bearer Token authentication
-  - 📦 Structured JSON responses with standard HTTP status codes
-  - 🚦 Rate limiting & automated request validation
+- **Overview**: High-throughput backend API service with JWT authentication, rate limiting, structured error handling, and interactive API documentation.
+- **Stack**: `PHP 8.2` &bull; `Laravel API` &bull; `PostgreSQL` &bull; `Postman`
+- **Key Deliverables**:
+  - Implemented token-based authentication and request throttling.
+  - Enforced consistent API response formatting adhering to standard HTTP codes.
+  - Developed comprehensive documentation for frontend integration.
 </details>
 
 <br>
 
 <details open>
-<summary><b>🔍 4. Automated SEO Engine & Web Performance Optimizer</b></summary>
+<summary><b>Technical SEO & Web Performance Engine</b></summary>
 <br>
 
-- **Deskripsi**: Toolkit optimasi performa web dan otomatisasi struktur Schema.org untuk meningkatkan ranking mesin pencari secara organik.
-- **Tech Stack**: `JavaScript` • `Node.js` • `Google Search Console` • `Lighthouse Audit`
-- **Fitur Utama**:
-  - 📈 100/100 Lighthouse Performance & SEO Score
-  - 🏷️ Dynamic OpenGraph & JSON-LD Rich Snippets
-  - 💨 Asset compression & lazy loading pipeline
+- **Overview**: Optimization framework focused on boosting search engine indexing, semantic structuring, and Core Web Vitals metrics.
+- **Stack**: `JavaScript` &bull; `Node.js` &bull; `Google Search Console` &bull; `Lighthouse Audit`
+- **Key Deliverables**:
+  - Automated JSON-LD structured data and dynamic OpenGraph generation.
+  - Enhanced page speed and asset delivery for high Lighthouse audit scores.
 </details>
 
 ---
 
-## 📈 `04 // PRODUCTION_EXPERIENCE_LOG`
+## Experience & Background
 
-```diff
-+ [2024 - PRESENT] Freelance Full Stack Developer & IT Specialist
-+  - Merancang dan membangun aplikasi web kustom untuk UMKM dan klien korporat.
-+  - Mengembangkan sistem informasi berbasis Laravel dengan arsitektur modular.
-+  - Mengoptimasi ranking SEO dan performa teknis puluhan website.
-
-+ [2022 - 2024] Web Developer & IT Solutions
-+  - Membangun landing pages, portal web, dan dashboard database.
-+  - Pemeliharaan server, integrasi API, dan perbaikan performa website.
-```
+- **Freelance Software Developer & IT Consultant** `(2024 &ndash; Present)`
+  - Designing and implementing custom web applications, enterprise dashboards, and technical SEO solutions for business clients.
+- **Web Developer & IT Support Specialist** `(2022 &ndash; 2024)`
+  - Developed responsive digital interfaces, database management workflows, and server maintenance solutions.
 
 ---
 
-## 📡 `05 // INITIATE_TRANSMISSION & CONNECT`
+## Contact & Connect
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│  Mari berkolaborasi dalam pembuatan sistem web, backend, atau IT!       │
-├────────────────────────────────────────────────────────────────────────┤
-│  ✉️  EMAIL    : faizarfian@gmail.com                                    │
-│  🔗  LINKEDIN : linkedin.com/in/faizarfian                             │
-│  💻  GITHUB   : github.com/faizarfi                                    │
-│  💬  WHATSAPP : https://wa.me/6281234567890                            │
-│  📍  LOCATION : Surakarta, Jawa Tengah, Indonesia                      │
-└────────────────────────────────────────────────────────────────────────┘
-```
+- **Email**: [faizarfian@gmail.com](mailto:faizarfian@gmail.com)
+- **LinkedIn**: [linkedin.com/in/faizarfian](https://linkedin.com/in/faizarfian)
+- **GitHub**: [github.com/faizarfi](https://github.com/faizarfi)
+- **WhatsApp**: [+62 812-3456-7890](https://wa.me/6281234567890)
+- **Location**: Surakarta, Central Java, Indonesia
 
-<div align="center">
-
-```text
-⚡ Engineered with Clean Code & Passion by Faiz Arfian Ilhami ⚡
-```
-
-</div>
+---
+<sub>&copy; Faiz Arfian Ilhami &bull; Built with precision and clean architecture.</sub>
