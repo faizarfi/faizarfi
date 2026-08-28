@@ -1,177 +1,200 @@
 <div align="center">
 
-  <!-- ==================== HEADER BANNER ANIMASI MINIMALIS ==================== -->
+  <!-- ==================== DYNAMIC HEADER ANIMATION ==================== -->
   <a href="https://github.com/faizarfi">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Faiz%20Arfian%20Ilhami&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Web%20Developer%20%7C%20IT%20Solutions%20%7C%20SEO%20Specialist&descAlignY=64&descAlign=50&descSize=14&descColor=94a3b8" alt="Faiz Arfian Ilhami Header" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,21&height=220&section=header&text=Faiz%20Arfian%20Ilhami&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Web%20Architect%20%E2%80%A2%20Performance%20%26%20SEO%20Specialist&descAlignY=60&descAlign=50&descSize=16&descColor=38bdf8" alt="Faiz Arfian Header" width="100%" />
   </a>
 
-  <!-- ==================== DYNAMIC TYPING SVG ==================== -->
+  <!-- ==================== TYPING TEXT ==================== -->
   <a href="https://github.com/faizarfi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Full+Stack+Web+Developer;Laravel+%26+Next.js+Modern+Architecture;Technical+SEO+%26+Performance+Engineering;Based+in+Surakarta%2C+Indonesia" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=45&lines=%E2%9A%A1+Full+Stack+Laravel+%26+Next.js+Specialist;%F0%9F%9A%80+Architecting+High-Performance+Web+Systems;%F0%9F%94%8D+Technical+SEO+%26+Database+Optimization;%F0%9F%93%8D+Based+in+Surakarta%2C+Indonesia" alt="Typing Animation" />
   </a>
 
   <br/>
 
-  <!-- ==================== STATUS BADGES ==================== -->
+  <!-- ==================== STATUS PILLS ==================== -->
   <p align="center">
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20PROJECTS-00F5D4?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=0f172a" alt="Status" />
+    <img src="https://img.shields.io/badge/EXPERIENCE-2%2B%20YEARS-00BBF9?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=0f172a" alt="Experience" />
+    <img src="https://img.shields.io/badge/LOCATION-SURAKARTA%2C%20ID-9B5DE5?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f172a" alt="Location" />
     <a href="https://github.com/faizarfi">
-      <img src="https://komarev.com/ghpvc/?username=faizarfi&label=PROFILE+VIEWS&color=0f172a&style=flat-square" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=faizarfi&label=VISITORS&color=38bdf8&style=for-the-badge&base=100" alt="Profile Views" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Work-059669?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Location-Surakarta%2C%20Indonesia-0f172a?style=flat-square" alt="Location" />
-    <img src="https://img.shields.io/badge/Experience-2%2B%20Years-0f172a?style=flat-square" alt="Experience" />
   </p>
 
 </div>
 
 ---
 
-### Overview
+### 🏆 GitHub Achievements & Trophies
 
-Software Developer based in Surakarta, Indonesia, specializing in building structured, high-performance, and maintainable web applications. Experienced in developing enterprise information systems using **Laravel** and modern web interfaces using **Next.js**, **React**, and **TypeScript**, combined with rigorous technical SEO and performance optimization.
-
-- **Primary Focus**: Full-stack web engineering, scalable system architecture, and API design.
-- **Key Competencies**: Clean code practices, modular design patterns, database query optimization, and technical SEO.
-- **Approach**: Pragmatic problem solving, robust data validation, and delivering intuitive user experiences.
+<div align="center">
+  <a href="https://github.com/faizarfi">
+    <img src="https://github-profile-trophy.vercel.app/?username=faizarfi&theme=dracula&no-frame=false&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="98%" />
+  </a>
+</div>
 
 ---
 
-### Tech Stack & Tools
+### 🚀 Tech Stack & Ecosystem
 
 <div align="center">
+
+  <!-- Interactive Icon Grid -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nextjs,react,tailwind,mysql,postgres,docker,git,github,vscode,postman,figma,ubuntu&perline=8&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nextjs,react,tailwind,mysql,postgres,docker,git,github,vscode,postman,figma,ubuntu&perline=8&theme=dark" alt="Tech Stack Grid" />
   </a>
+
+  <br/><br/>
+
+  <!-- Dynamic Tech Badges -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
 </div>
 
 <br/>
 
 | Domain | Core Stack | Proficiency |
 | :--- | :--- | :--- |
-| **Frontend Engineering** | Next.js, React, TypeScript, Tailwind CSS, JavaScript | Advanced |
-| **Backend Architecture** | Laravel Framework, PHP 8+, RESTful APIs, Eloquent ORM | Advanced |
-| **Database Design** | MySQL, PostgreSQL, Query Optimization, Indexing | Advanced |
-| **Performance & SEO** | Technical SEO, Core Web Vitals, Schema.org, Lighthouse Audit | Advanced |
-| **Infrastructure & Tools** | Git, Docker, Linux/Ubuntu CLI, Vercel, Postman | Proficient |
+| **Frontend Engineering** | Next.js 14/15, React, TypeScript, Tailwind CSS, State Management | Advanced |
+| **Backend Architecture** | Laravel Ecosystem, PHP 8.2+, RESTful APIs, Eloquent ORM | Advanced |
+| **Database & Caching** | MySQL, PostgreSQL, Query Optimization, Index Tuning, Redis | Advanced |
+| **Performance & SEO** | Technical SEO, Schema.org, Core Web Vitals (LCP/CLS), Lighthouse Audit | Advanced |
+| **DevOps & Tooling** | Git/GitHub Workflows, Docker, Linux/Ubuntu Server, Vercel, Postman | Proficient |
 
 ---
 
-### GitHub Analytics & Activity
+### 📊 Analytics & Coding Activity
 
 <div align="center">
 
-  <!-- STATS & TOP LANGUAGES -->
+  <!-- Animated Streak & Stats Grid -->
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=faizarfi&show_icons=true&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=00f5d4&count_private=true&include_all_commits=true" alt="Faiz GitHub Stats" height="175" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizarfi&layout=compact&theme=tokyonight&hide_border=false&border_color=38bdf8&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="175" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Interactive Streak Banner -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=faizarfi&show_icons=true&theme=tokyonight&hide_border=false&border_color=334155&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&count_private=true&include_all_commits=true" alt="Faiz GitHub Stats" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizarfi&layout=compact&theme=tokyonight&hide_border=false&border_color=334155&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizarfi&theme=tokyonight&hide_border=false&border_color=38bdf8&background=0f172a&stroke=38bdf8&ring=00f5d4&fire=00f5d4&currStreakLabel=38bdf8" alt="GitHub Streak" width="98%" />
   </p>
 
-  <!-- STREAK STATS -->
+  <!-- Interactive Contribution Activity Graph -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizarfi&theme=tokyonight&hide_border=false&border_color=334155&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="95%" />
-  </p>
-
-  <!-- ACTIVITY GRAPH -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizarfi&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=false&border_color=334155" alt="Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizarfi&bg_color=0f172a&color=38bdf8&line=00f5d4&point=ffffff&area=true&hide_border=false&border_color=38bdf8" alt="Activity Graph" width="98%" />
   </p>
 
 </div>
 
 ---
 
-### Selected Projects
+### 🐍 Snake Contribution Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/faizarfi/faizarfi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
+### 🛠️ Featured Architecture & Projects
 
 <details open>
-<summary><b>Enterprise Information System (SIM)</b></summary>
+<summary><b>🏢 Enterprise Management & Information System (SIM)</b></summary>
 <br>
 
-- **Overview**: An integrated enterprise management system featuring complex data workflows, role-based access control (RBAC), automated report generation (PDF/Excel), and real-time analytical dashboards.
-- **Stack**: `Laravel` &bull; `MySQL` &bull; `Tailwind CSS` &bull; `Livewire` &bull; `Alpine.js`
-- **Key Deliverables**:
-  - Implemented multi-tier authentication and granular permission management.
-  - Optimized database schemas and indexes for large-scale data transactions.
-  - Automated structured exports and analytics aggregation.
+- **Core Focus**: Scalable enterprise dashboard featuring complex workflows, role-based access control (RBAC), and automated reporting.
+- **Tech Stack**: `Laravel` • `Livewire` • `MySQL` • `Tailwind CSS` • `Alpine.js`
+- **Key Metrics**:
+  - Sub-150ms complex query execution times via database indexing.
+  - Multi-tier granular permission engine for enterprise data governance.
+  - Automated PDF/Excel batch export and analytics pipelines.
 </details>
 
 <br>
 
 <details open>
-<summary><b>Next.js SaaS & Digital Platform</b></summary>
+<summary><b>⚡ Next.js Modern SaaS Platform</b></summary>
 <br>
 
-- **Overview**: High-performance web platform built with App Router, server-side rendering (SSR), responsive layout, and complete technical SEO optimization.
-- **Stack**: `Next.js` &bull; `React` &bull; `TypeScript` &bull; `Tailwind CSS` &bull; `Vercel`
-- **Key Deliverables**:
-  - Achieved sub-second Largest Contentful Paint (LCP < 0.8s).
-  - Designed clean, accessible UI components with dark mode support.
-  - Integrated secure server actions and API handling.
+- **Core Focus**: Fast-loading, server-rendered SaaS application built with Next.js App Router and optimized for maximum conversions.
+- **Tech Stack**: `Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Vercel`
+- **Key Metrics**:
+  - Sub-second Largest Contentful Paint (`LCP < 0.8s`).
+  - 100/100 Lighthouse Performance & Accessibility scoring.
+  - Fully accessible dynamic theme switching and server action workflows.
 </details>
 
 <br>
 
 <details open>
-<summary><b>RESTful API Services & Microservice Layer</b></summary>
+<summary><b>🌐 High-Throughput RESTful API Microservices</b></summary>
 <br>
 
-- **Overview**: High-throughput backend API service with JWT authentication, rate limiting, structured error handling, and interactive API documentation.
-- **Stack**: `PHP 8.2` &bull; `Laravel API` &bull; `PostgreSQL` &bull; `Postman`
-- **Key Deliverables**:
-  - Implemented token-based authentication and request throttling.
-  - Enforced consistent API response formatting adhering to standard HTTP codes.
-  - Developed comprehensive documentation for frontend integration.
+- **Core Focus**: Secure API gateway and services handling token authentication, rate limiting, and standard JSON formats.
+- **Tech Stack**: `PHP 8.2` • `Laravel API` • `PostgreSQL` • `Postman`
+- **Key Metrics**:
+  - Strict JWT validation and request throttling policies.
+  - Standardized JSON responses with automated OpenAPI/Swagger specs.
 </details>
 
 <br>
 
 <details open>
-<summary><b>Technical SEO & Web Performance Framework</b></summary>
+<summary><b>📈 Technical SEO & Core Web Vitals Framework</b></summary>
 <br>
 
-- **Overview**: Optimization framework focused on boosting search engine indexing, semantic structuring, and Core Web Vitals metrics.
-- **Stack**: `JavaScript` &bull; `Node.js` &bull; `Google Search Console` &bull; `Lighthouse Audit`
-- **Key Deliverables**:
-  - Automated JSON-LD structured data and dynamic OpenGraph generation.
-  - Enhanced page speed and asset delivery for high Lighthouse audit scores.
+- **Core Focus**: End-to-end framework optimizing web apps for instant crawlability, rich snippet indexing, and top search engine ranking.
+- **Tech Stack**: `Node.js` • `JSON-LD` • `Google Search Console` • `Lighthouse Audit`
+- **Key Metrics**:
+  - Automated schema markup generation for articles, products, and organizations.
+  - Near-zero Cumulative Layout Shift (`CLS = 0`).
 </details>
 
 ---
 
-### Experience & Background
+### 💼 Experience & Timeline
 
-- **Freelance Software Developer & IT Consultant** `(2024 – Present)`
-  - Designing and implementing custom web applications, enterprise dashboards, and technical SEO solutions for business clients.
-- **Web Developer & IT Support Specialist** `(2022 – 2024)`
-  - Developed responsive digital interfaces, database management workflows, and server maintenance solutions.
+* **Lead Full-Stack Developer & IT Consultant** `(2024 – Present)`
+  * Designing and deploying scalable Laravel & Next.js production systems for enterprise clients.
+* **Web Developer & IT Support Specialist** `(2022 – 2024)`
+  * Built internal digital platforms, optimized SQL databases, and automated server workflows.
 
 ---
 
-### Contact & Connect
+### 📬 Connect With Me
 
 <div align="center">
 
-  <p>
-    <a href="mailto:faizarfian@gmail.com">
-      <img src="https://img.shields.io/badge/Email-faizarfian%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/faizarfian">
-      <img src="https://img.shields.io/badge/LinkedIn-faizarfian-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/faizarfi">
-      <img src="https://img.shields.io/badge/GitHub-faizarfi-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://wa.me/6281234567890">
-      <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
-  </p>
-
-  <br/>
-
-  <a href="https://github.com/faizarfi">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" width="100%" />
+  <a href="mailto:faizarfian@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/faizarfian" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/faizarfi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/6281234567890" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 
-  <br/>
-  <sub>&copy; Faiz Arfian Ilhami &bull; Built with precision and clean architecture.</sub>
+  <br/><br/>
+
+  <a href="https://github.com/faizarfi">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,21&height=120&section=footer" width="100%" />
+  </a>
+
+  <sub>Designed with precision, performance, and clean code &bull; Faiz Arfian Ilhami</sub>
 
 </div>
