@@ -1,15 +1,13 @@
 <div align="center">
 
-  <!-- ==================== CYBERPUNK ANIMATED BANNER ==================== -->
+  <!-- ==================== DYNAMIC ANIMATED HEADER ==================== -->
   <a href="https://github.com/faizarfi">
-    <img src="assets/banner-cyberpunk.svg" alt="Faiz Arfian Ilhami - Cyberpunk Banner" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=FAIZ%20ARFIAN%20ILHAMI&fontSize=48&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20IT%20Specialist%20%7C%20Laravel%20%26%20Next.js&descAlignY=58&descAlign=50&descSize=16" alt="Faiz Arfian Ilhami Header Banner" width="100%" />
   </a>
-
-  <br/><br/>
 
   <!-- ==================== DYNAMIC TYPING SVG ==================== -->
   <a href="https://github.com/faizarfi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9A%A1+Full+Stack+Web+Developer+%26+IT+Specialist;%F0%9F%9A%80+Laravel+%26+Next.js+Modern+Web+Architect;%F0%9F%9B%A0%EF%B8%8F+Building+Clean%2C+Scalable+%26+High-Impact+Systems;%F0%9F%94%8D+SEO+Optimization+%26+Performance+Engineering;%F0%9F%93%8D+Based+in+Surakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Faiz Arfian Ilhami Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9A%A1+Full+Stack+Web+Developer+%26+IT+Specialist;%F0%9F%9A%80+Laravel+%26+Next.js+Modern+Web+Architect;%F0%9F%9B%A0%EF%B8%8F+Building+Clean%2C+Scalable+%26+High-Impact+Systems;%F0%9F%94%8D+SEO+Optimization+%26+Performance+Engineering;%F0%9F%93%8D+Based+in+Surakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Faiz Arfian Ilhami Typing Animation" />
   </a>
 
   <br/>
@@ -26,7 +24,7 @@
 
   <!-- ==================== QUICK ACTION MATRIX ==================== -->
   <p align="center">
-    <a href="https://faizarfi.dev" target="_blank">
+    <a href="https://github.com/faizarfi" target="_blank">
       <img src="https://img.shields.io/badge/⚡_PORTFOLIO-0D1117?style=for-the-badge&logo=firefox&logoColor=00F0FF&color=0D1117&labelColor=00F0FF" alt="Portfolio" />
     </a>
     <a href="mailto:faizarfian@gmail.com" target="_blank">
@@ -42,13 +40,13 @@
 
 </div>
 
-<img src="assets/neon-divider.svg" width="100%" />
+<img src="./assets/neon-divider.svg" width="100%" />
 
 <!-- ==================== ABOUT ME & HUD TELEMETRY ==================== -->
 ## 🔮 `01 // SYSTEM_TELEMETRY & ABOUT_ME`
 
 <div align="center">
-  <img src="assets/hud-telemetry.svg" alt="Cyberpunk HUD Telemetry" width="100%" />
+  <img src="./assets/hud-telemetry.svg" alt="Cyberpunk HUD Telemetry" width="100%" />
 </div>
 
 <br/>
@@ -74,7 +72,7 @@ root@faizarfi:~$ cat about_developer.json
 
 <br/>
 
-<img src="assets/neon-divider.svg" width="100%" />
+<img src="./assets/neon-divider.svg" width="100%" />
 
 <!-- ==================== TECH STACK ARSENAL ==================== -->
 ## ⚔️ `02 // TECH_STACK_MATRIX & WEAPONS`
@@ -141,7 +139,7 @@ root@faizarfi:~$ cat about_developer.json
 
 <br/>
 
-<img src="assets/neon-divider.svg" width="100%" />
+<img src="./assets/neon-divider.svg" width="100%" />
 
 <!-- ==================== GITHUB LIVE ANALYTICS ==================== -->
 ## 📊 `03 // GITHUB_CYBER_ANALYTICS & METRICS`
@@ -164,20 +162,11 @@ root@faizarfi:~$ cat about_developer.json
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizarfi&bg_color=0D1117&color=00F0FF&line=00FF9D&point=FF007F&area=true&hide_border=false&border_color=7000FF" alt="Activity Graph" width="95%" />
   </p>
 
-  <!-- CONTRIBUTION SNAKE ANIMATION -->
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizarfi/faizarfi/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizarfi/faizarfi/output/github-contribution-grid-snake.svg" />
-      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/faizarfi/faizarfi/output/github-contribution-grid-snake-dark.svg" width="95%" />
-    </picture>
-  </p>
-
 </div>
 
 <br/>
 
-<img src="assets/neon-divider.svg" width="100%" />
+<img src="./assets/neon-divider.svg" width="100%" />
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
 ## 🚀 `04 // FEATURED_CYBER_PROJECTS & MISSIONS`
@@ -202,7 +191,7 @@ root@faizarfi:~$ cat about_developer.json
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <h3>⚡ Modern Next.js SaaS &amp; Digital Portfolio</h3>
+        <h3>⚡ Modern Next.js SaaS Platform</h3>
         <p>Aplikasi web modern berkinerja tinggi dengan arsitektur App Router, server-side rendering (SSR), dynamic dark mode neon aesthetic, dan integrasi SEO score 100.</p>
         <p>
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -255,31 +244,14 @@ root@faizarfi:~$ cat about_developer.json
 
 <br/>
 
-<img src="assets/neon-divider.svg" width="100%" />
-
-<!-- ==================== MUSIC & MOTTO DECK ==================== -->
-## 🎵 `05 // CYBER_AUDIO_DECK & PHILOSOPHY`
-
-<div align="center">
-
-  <p><i>"Transforming complex requirements into elegant, fast, and scalable digital solutions."</i></p>
-
-  <a href="https://spotify.com">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=00F0FF" alt="Spotify Player" width="380" />
-  </a>
-
-</div>
-
-<br/>
-
-<img src="assets/neon-divider.svg" width="100%" />
+<img src="./assets/neon-divider.svg" width="100%" />
 
 <!-- ==================== CONNECT TERMINAL ==================== -->
-## 📡 `06 // INITIATE_TRANSMISSION & CONNECT`
+## 📡 `05 // INITIATE_TRANSMISSION & CONNECT`
 
 <div align="center">
 
-  <p><b>Tertarik untuk berkolaborasi dalam proyek freelance, pembuatan sistem web, atau konsultasi IT? Mari terhubung!</b></p>
+  <p><b>Tertarik untuk berkolaborasi dalam proyek web, pembuatan sistem informasi, atau konsultasi IT? Mari terhubung!</b></p>
 
   <p align="center">
     <a href="mailto:faizarfian@gmail.com">
@@ -295,6 +267,11 @@ root@faizarfi:~$ cat about_developer.json
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
+
+  <br/>
+
+  <!-- DYNAMIC ANIMATED FOOTER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
 
   <br/>
 
